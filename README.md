@@ -21,7 +21,7 @@ The dataset contains various features related to sales and supply chain:
 
 ## Data Description
 
-The dataset comprises various features related to beauty product sales and supply. Below is the detailed column information along with the data types for each column:
+This dataset has been extracted from [Kaggle](https://www.kaggle.com). The dataset comprises various features related to beauty product sales and supply. Below is the detailed column information along with the data types for each column:
 
 | Column                    | Description                                       | Data Type      |
 |---------------------------|---------------------------------------------------|----------------|
